@@ -58,7 +58,7 @@ $tweaks = @(
 	# "DisableHomeGroups",          # "EnableHomeGroups",
 	"DisableSharedExperiences",     # "EnableSharedExperiences",
 	"DisableRemoteAssistance",      # "EnableRemoteAssistance",
-	"EnableRemoteDesktop",          # "DisableRemoteDesktop",
+	# "EnableRemoteDesktop",          # "DisableRemoteDesktop",
 	"DisableAutoplay",              # "EnableAutoplay",
 	"DisableAutorun",               # "EnableAutorun",
 	# "EnableStorageSense",         # "DisableStorageSense",
@@ -91,7 +91,7 @@ $tweaks = @(
 	"DisableSearchAppInStore",      # "EnableSearchAppInStore",
 	"DisableNewAppPrompt",          # "EnableNewAppPrompt",
 	# "SetControlPanelSmallIcons",  # "SetControlPanelLargeIcons",  # "SetControlPanelCategories",
-	"SetVisualFXPerformance",       # "SetVisualFXAppearance",
+	# "SetVisualFXPerformance",       # "SetVisualFXAppearance",
 	# "AddENKeyboard",              # "RemoveENKeyboard",
 	# "EnableNumlock",              # "DisableNumlock",
 
